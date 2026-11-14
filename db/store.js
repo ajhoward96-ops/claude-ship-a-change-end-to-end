@@ -24,4 +24,4 @@ function createUser({ name, email }) {
   return user;
 }
 
-module.exports = { getAllUsers, getUserById, createUser };
+updateUser
